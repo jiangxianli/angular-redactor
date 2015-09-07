@@ -3,6 +3,7 @@
   "main": [
       "angular-redactor.js",
       "redactor/redactor.min.js",
+      "redactor/redactor-plugins/**.js",
       "redactor/redactor.css"
   ],
   "version": "0.0.1",
