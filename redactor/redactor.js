@@ -327,7 +327,10 @@
 				alignment: 'Alignment',
 				filename: 'Name (optional)',
 				edit: 'Edit',
-				upload_label: 'Drop file here or '
+				upload_label: 'Drop file here or ',
+                fontsize: 'Change Font Size',
+                remove:'Remove',
+                fontfamily:'Change Font Family'
 
 			}
 		},

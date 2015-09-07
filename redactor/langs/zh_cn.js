@@ -69,6 +69,9 @@ $.Redactor.opts.langs['zh_cn'] = {
 	underline: '下划线',
 	alignment: '对齐方式',
 	filename: '文件名 (可选)',
-	edit: '编辑'
+	edit: '编辑',
+    fontsize: '字体大小',
+    remove:'移除',
+    fontfamily:'字体'
 };
 })( jQuery );

@@ -67,6 +67,9 @@ $.Redactor.opts.langs['en'] = {
 	underline: 'Underline',
 	alignment: 'Alignment',
 	filename: 'Name (optional)',
-	edit: 'Edit'
+	edit: 'Edit',
+    fontsize: 'Change Font Size',
+    remove:'Remove',
+    fontfamily:'Change Font Family'
 };
 })( jQuery );

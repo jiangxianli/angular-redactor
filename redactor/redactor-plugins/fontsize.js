@@ -16,9 +16,9 @@ if (!RedactorPlugins) var RedactorPlugins = {};
 					dropdown['s' + i] = { title: s + 'px', func: function() { that.fontsize.set(s); } };
 				});
 
-				dropdown.remove = { title: 'Remove Font Size', func: that.fontsize.reset };
+				dropdown.remove = { title: this.lang.get('remove'), func: that.fontsize.reset };
 
-				var button = this.button.add('fontsize', 'Change Font Size');
+				var button = this.button.add('fontsize', this.lang.get('fontsize'));
 				this.button.addDropdown(button, dropdown);
 			},
 			set: function(size)
