@@ -1,4 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/TylerGarlick/angular-redactor.png?label=ready&title=Ready)](https://waffle.io/TylerGarlick/angular-redactor)
+声明
+================
+此项目是在[TylerGarlick/angular-redactor](https://github.com/TylerGarlick/angular-redactor)的基础上完成。
+原项目中没有加入redactor库文件，为了项目需要我在此基础上加入了redactor的库文件，并在bower.json指定了主文件。
+以下是TylerGarlick/angular-redactor的文档说明
+
 angular-redactor
 ================
 
